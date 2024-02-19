@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+justify-content: space-between;
+margin: 30px 80px;
+padding-left: 50px;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    margin: 10px 80px;
+
+}
+.nav-bar a {
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.actor:hover{
+color: rgb(228, 12, 48);
+}
+.banner-content{
+   display: flex;
+   justify-content: left;
+    color: #222222;
+    background-image: url(download.jpg);
+    
+}
